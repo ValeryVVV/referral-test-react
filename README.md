@@ -8,6 +8,7 @@ To start the project:
 
 1. Install the dependency package: npm install
 2. Project launch: npm start
+3. [Live Page](https://valeryvvv.github.io/referral-test-react/)
 
 ## About Project
 
