@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "referral": {
+      "referralName": "Purchase",
+      "referralDate": "06/17/2020 at 7:13 PM PDT",
+      "referralDebit": "120$"
+    },
+    "advocate": {
+      "advocateEmail": "autouser23926@gmail.com",
+      "advocateName": "Advocate"
+    },
+    "friend": {
+      "friendEmail": "fr58272@gmail.com",
+      "friendName": "Friend"
+    },
+    "status": {
+      "statusName": "Pending",
+      "statusMessage": "Passed fraud checks"
+    }
+  },
+  {
+    "id": 2,
+    "referral": {
+      "referralName": "Purchase",
+      "referralDate": "07/10/2020 at 4:05 AM PDT",
+      "referralDebit": "100$"
+    },
+    "advocate": {
+      "advocateEmail": "ad0379118142@gmail.com",
+      "advocateName": "Advocate"
+    },
+    "friend": {
+      "friendEmail": "fr379118142@gmail.com",
+      "friendName": "Friend"
+    },
+    "status": {
+      "statusName": "Flagged",
+      "statusMessage": "Marked as fraud"
+    }
+  },
+  {
+    "id": 3,
+    "referral": {
+      "referralName": "Purchase",
+      "referralDate": "06/09/2020 at 12:42 PM PDT",
+      "referralDebit": "28$"
+    },
+    "advocate": {
+      "advocateEmail": "ad56991@gmail.com",
+      "advocateName": "Advocate"
+    },
+    "friend": {
+      "friendEmail": "fr92250@gmail.com",
+      "friendName": "Friend"
+    },
+    "status": {
+      "statusName": "Approved",
+      "statusMessage": "Passed fraud checks"
+    }
+  },
+  {
+    "id": 4,
+    "referral": {
+      "referralName": "Purchase",
+      "referralDate": "08/07/2020 at 4:20 AM PDT",
+      "referralDebit": "100$"
+    },
+    "advocate": {
+      "advocateEmail": "user.to.be.blocked92187@gmail.com",
+      "advocateName": "Advocate"
+    },
+    "friend": {
+      "friendEmail": "user.to.be.blocked268270@gmail.com",
+      "friendName": "Friend"
+    },
+    "status": {
+      "statusName": "Blocked",
+      "statusMessage": "Marked as fraud"
+    }
+  },
+  {
+    "id": 5,
+    "referral": {
+      "referralName": "Purchase",
+      "referralDate": "06/08/2020 at 2:08 AM PDT",
+      "referralDebit": "100$"
+    },
+    "advocate": {
+      "advocateEmail": "ad0693677382@gmail.com",
+      "advocateName": "Advocate"
+    },
+    "friend": {
+      "friendEmail": "fr06936773820@gmail.com",
+      "friendName": "Friend"
+    },
+    "status": {
+      "statusName": "Voided",
+      "statusMessage": "Marked as fraud"
+    }
+  },
+  {
+    "id": 6,
+    "referral": {
+      "referralName": "Purchase",
+      "referralDate": "08/08/2020 at 12:08 PM PDT",
+      "referralDebit": "10$"
+    },
+    "advocate": {
+      "advocateEmail": "ad45676fh0693677382@gmail.com",
+      "advocateName": "Advocate"
+    },
+    "friend": {
+      "friendEmail": "friend06936773820@gmail.com",
+      "friendName": "Friend"
+    },
+    "status": {
+      "statusName": "Approved",
+      "statusMessage": "Passed fraud checks"
+    }
+  },
+  {
+    "id": 7,
+    "referral": {
+      "referralName": "Purchase",
+      "referralDate": "01/11/2022 at 7:07 AM PDT",
+      "referralDebit": "170$"
+    },
+    "advocate": {
+      "advocateEmail": "advocate777777777@gmail.com",
+      "advocateName": "Advocate"
+    },
+    "friend": {
+      "friendEmail": "friends777777777@gmail.com",
+      "friendName": "Friend"
+    },
+    "status": {
+      "statusName": "Blocked",
+      "statusMessage": "Marked as fraud"
+    }
+  }
+]
